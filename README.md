@@ -894,9 +894,11 @@ public class CollectablesManager : MonoBehaviour
 }
 
 ```
+
 Генерация работает через специальную сетку, состоящую из 0, 1, 2, 3. Соответственно, где ноль, там отсутствует “Brick”. -
 
 _______________________![image](https://user-images.githubusercontent.com/119228138/205057010-c233e4d2-6bd8-4f7b-ac38-d644a77b9162.png)
 
 Вывод: В ходе проделанной работы был разработан игровой проект Arkanoid.
+
 [ЛР31,32. Разработка Арканойда.zip](https://github.com/TimurMigunov/LR31-32./files/10132492/31.32.zip)
